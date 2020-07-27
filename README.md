@@ -1,13 +1,4 @@
 # Curso em Vídeo: HTML5, CSS e JavaScript
-<style>
-    p {
-        text-align: justify;
-    }
-    a {
-        text-decoration: none;
-        color: black;
-    }
-</style>
 <header>
  <p>Exercicio do Curso Em Video sobre HTML5, CSS e JAVASCRIPT</p>
 </header>
